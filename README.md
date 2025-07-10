@@ -27,4 +27,6 @@ We use MediaPipe for extracting pose keypoints and a Random Forest classifier to
 Prototype (Works on images, extendable to video)
 
 ## 👤 Author
+Praniti Sethi 
+https://github.com/praniticodes
 Developed as part of the EEC UG Program @ TIET
